@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iymahnoul
-- 👀 I’m interested in App Development and Data Analysis
-- 🌱 I’m currently learning Python,C#,Java and Flutter
+- 👀 I’m interested in Software Development and Data Analysis
+- 🌱 I’m currently learning Python,C#, and Flutter. Also studying for the CCNA.
 - 💞️ I’m looking to collaborate on Python
 - 📫 
 
