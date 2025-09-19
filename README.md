@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Iymahnoul
-- 👀 I’m interested in Software Development and Data Analysis
-- 🌱 I’m currently learning Python,C#, and Flutter. Also studying for the CCNA.
-- 💞️ I’m looking to collaborate on Python
+- 👋 Hi, I’m Emmanuel Imo
+- 👀 I’m interested in Software Development (Django) and Data Analysis using Python; as well as Network Administration.
+- 🌱 I can proficiently write clean code in Python and have successfully completed my CCNA and Network Administration course.
+- 💞️ I’m looking forward to collaborate on Python Developmemnt and Network Administration.
 - 📫 
 
 <!---
